@@ -1,0 +1,9 @@
+target/
+tools/.cache/
+.DS_Store
+.idea/
+*.iml
+
+# Trainer material and tools (answers, hidden tests, trial results, scripts): never published
+trainer/
+tools/
